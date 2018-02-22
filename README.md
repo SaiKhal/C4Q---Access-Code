@@ -1,2 +1,2 @@
-# C4Q---Access-Code
+# C4QAccessCode
 Collection of work done during my time at Access Code
